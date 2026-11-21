@@ -1,0 +1,80 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/CompilerIDE_logo.png</file>
+	<file>icons/CompilerIDE_logo_bright.png</file>
+
+        <file>icons/accepted.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/undo.png</file>
+
+        <file>icons/keywords_Use_in_dark_Theme.svg</file>
+        <file>icons/function_code_Use_in_dark_Theme.svg</file>
+        <file>icons/Widget_Use_in_dark_Theme.svg</file>
+        <file>icons/customize_Use_in_Dark_Theme.svg</file>
+        <file>icons/const_Use_in_dark_Theme.svg</file>
+
+        <file>icons/keywords_Use_in_Light_Theme.svg</file>
+        <file>icons/function_code_Use_in_Light_Theme.svg</file>
+        <file>icons/Widget_Use_in_Light_Theme.svg</file>
+        <file>icons/customize_Use_in_Light_Theme.svg</file>
+        <file>icons/const_Use_in_Light_Theme.svg</file>
+
+        <file>icons/project_manager_dark.svg</file>
+        <file>icons/project_manager_light.svg</file>
+        <file>icons/diagnostic_dark.svg</file>
+        <file>icons/diagnostic_light.svg</file>
+        <file>icons/code_snippet_dark.svg</file>
+        <file>icons/code_snippet_light.svg</file>
+        <file>icons/comparator_dark.svg</file>
+        <file>icons/comparator_light.svg</file>
+        <file>icons/ai_dark.svg</file>
+        <file>icons/ai_light.svg</file>
+        <file>icons/luogu_dark.svg</file>
+        <file>icons/luogu_light.svg</file>
+        <file>icons/tester_dark.svg</file>
+        <file>icons/tester_light.svg</file>
+
+	<file>icons/add_test_Use_in_light_mode.svg</file>
+        <file>icons/add_test_Use_in_dark_mode.svg</file>
+        <file>icons/delete_testcase_Use_in_both_light_and_dark_mode.svg</file>
+        <file>icons/play_one_Use_in_light_mode.svg</file>
+        <file>icons/play_one_Use_in_dark_mode.svg</file>
+
+	<file>icons/play-circle_use_in_dark_mode.svg</file>
+	<file>icons/play-circle_use_in_light_mode.svg</file>
+	<file>icons/plus-circle_use_in_dark_mode.svg</file>
+	<file>icons/plus-circle_use_in_light_mode.svg</file>
+	<file>icons/trash_use_in_dark_mode.svg</file>
+	<file>icons/trash_use_in_light_mode.svg</file>
+	<file>icons/zhe_die_use_in_dark_mode.svg</file>
+	<file>icons/zhe_die_use_in_light_mode.svg</file>
+	<file>icons/zhan_kai_use_in_dark_mode.svg</file>
+	<file>icons/zhan_kai_use_in_light_mode.svg</file>
+	<file>icons/plugs_use_in_dark_mode.svg</file>
+	<file>icons/plugs_use_in_light_mode.svg</file>
+	<file>icons/calculator_use_in_dark_mode.svg</file>
+	<file>icons/calculator_use_in_light_mode.svg</file>
+	<file>icons/file-cpp_for_Light_And_Dark_mode.svg</file>
+	<file>icons/file-cpp_for_eye_care_mode.svg</file>
+	<file>icons/file-arrow-up_Use_in_dark_mode.svg</file>
+	<file>icons/file-arrow-up_Use_in_light_mode.svg</file>
+	<file>icons/list-plus_Use_in_Light_mode.svg</file>
+	<file>icons/list-plus_Use_in_Eyecare_mode.svg</file>
+	<file>icons/list-plus_Use_in_Dark_mode.svg</file>
+	<file>icons/compass-tool.svg</file>
+	<file>icons/file-md.svg</file>
+
+	<file>icons/circle-notch_Use_in_dark_mode.svg</file>
+	<file>icons/circle-notch_Use_in_light_mode.svg</file>
+	<file>icons/compile_pass.svg</file>
+	<file>icons/compile_error.svg</file>
+
+   	<file>markdown/marked.umd.js</file>
+    	<file>markdown/katex.min.js</file>
+    	<file>markdown/katex.min.css</file>
+    	<file>markdown/highlight.min.js</file>
+    	<file>markdown/github.min.css</file>
+    	<file>markdown/purify.min.js</file>
+	<file>markdown/github-dark.min.css</file>
+    </qresource>
+</RCC>
